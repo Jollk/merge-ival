@@ -7,7 +7,7 @@
 		"merge",
 		"bot"
 	],
-	"repository": "https://github.com/power4dyno/IVAL-MERGE-BOT",
+	"repository": "https://github.com/Jollk/merge-ival",
 	"website": "https://telegram.dog/IVALDENA",
 	"stack": "container",
 	"env": {
